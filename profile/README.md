@@ -15,6 +15,15 @@
   
 <br /> <br />
 
+## 🐣 GITHUB
+> FRONTEND
+  >> https://github.com/namoldak/Frontend
+<br />
+
+> BACKEND
+  >> https://github.com/namoldak/Backend
+<br />
+
 ## 🛠 기술 스택
 <div align=center> 
   
