@@ -82,11 +82,12 @@
 <br /> <br />
 
 ## ⚙️ 서비스 아키텍쳐
-![나몰닭_아키텍쳐_230117](https://user-images.githubusercontent.com/117756400/213394259-eb0b8fa3-42eb-4c78-840b-b6bc248f8b86.jpg)
+![나몰닭-아키텍쳐](https://user-images.githubusercontent.com/117756400/213685143-17dd2364-15d8-4751-ab0c-6bf20cc3ffd0.jpg)
 <br /> <br />
 
+
 ## 📽 시연 영상
-[나만모른닭]()
+[나만모른닭](https://user-images.githubusercontent.com/117756400/213690147-377a9f2d-2096-4e5a-b37e-e7cd30773e64.mp4)
 <br /> <br />
 
 ## WHAT WE MAKE
@@ -98,4 +99,4 @@
 ## ⌛ 시간이 더 있었다면 도전했을 기술들
 
 ## 📔 팀 노션
-[https://www.notion.so/ad96dfad0856455c922e9d0f756a7f60](https://www.notion.so/ad96dfad0856455c922e9d0f756a7f60)
+[🐥노션🐥](https://www.notion.so/ad96dfad0856455c922e9d0f756a7f60)
