@@ -1,19 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffbc52,100:ff1800&height=200&text=NAMOLDAK&fontSize=70&fontColor=ffffff&desc=나만%20모른%20닭&descSize=20&descAlign=70&fontAlignY=30&descAlignY=50)
 
 ## 🧑🏻‍💻 개발 기간 & 조원
-<li>2022.12.30 - </li> <br />
+<li>2022.12.30 - 2022.02.09</li> <br />
 
-|  이름  |포지션| 깃 허브 주소  |
-|:-----:|:---:|:--------------------------------:|
-| 김현빈 |FE| [https://github.com/kimmy199535](https://github.com/kimmy199535) |
-| 이정민 |FE| [https://github.com/kkookk55](https://github.com/kkookk55)    |
-| 최수빈 |FE| [https://github.com/123456soobin-choi](https://github.com/123456soobin-choi) |
-| 김아영 |BE| [https://github.com/isladaisy](https://github.com/isladaisy)     |
-| 조소영 |BE| [https://github.com/littlezero48](https://github.com/littlezero48)  |
-| 차이진 |BE| [https://github.com/leejincha](https://github.com/leejincha) |
-| 홍윤재 |BE| [https://github.com/PigletHong](https://github.com/PigletHong) |
-  
-<br /> <br />
+<div align=center>
+
+|  [김현빈](https://github.com/kimmy199535)  | [이정민](https://github.com/kkookk55) | [최수빈](https://github.com/123456soobin-choi) | 정희애 |
+|:---:|:---:|:---:|:---:|
+| ![현빈님캐릭터](https://user-images.githubusercontent.com/117756400/216781489-d5e60509-684d-4636-b7e6-af714a2d921c.png) | ![정민님캐릭터](https://user-images.githubusercontent.com/117756400/216781452-8767b30e-5180-4270-8685-448b87cde9a7.png) | ![수빈님캐릭터](https://user-images.githubusercontent.com/117756400/216781532-113c826a-a330-4573-8a13-525446a61e0b.png) | ![희애님캐릭터](https://user-images.githubusercontent.com/117756400/216781821-9adf9b05-907a-4d55-8ac4-11c09534a3c1.png) |
+| FE | FE | FE | DESIGN |
+
+<br />
+
+| [김아영](https://github.com/isladaisy) | [조소영](https://github.com/littlezero48) | [차이진](https://github.com/leejincha) | [홍윤재](https://github.com/PigletHong) |
+|:---:|:---:|:---:|:---:|
+| ![내캐릭터](https://user-images.githubusercontent.com/117756400/216781592-6934710c-1e4a-43dd-aeb9-2117b5fed5f4.png) | ![소영님캐릭터](https://user-images.githubusercontent.com/117756400/216781599-b9559a95-20d8-4b76-90a4-12151263a203.png) | ![젭캐릭터](https://user-images.githubusercontent.com/117756400/216781680-0523942d-5003-4201-88cf-f197ad977e65.png) | ![젭캐릭터](https://user-images.githubusercontent.com/117756400/216781680-0523942d-5003-4201-88cf-f197ad977e65.png) |
+| BE | BE | BE | BE |
+
+<br />
+✔️ 멤버 이름 클릭 시, 해당 멤버의 깃허브를 방문하실 수 있습니다.
+<br /><br />
+</div>
 
 ## 🐣 GITHUB
 > FRONTEND
