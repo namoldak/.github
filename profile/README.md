@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffbc52,100:ff1800&height=200&text=NAMOLDAK&fontSize=70&fontColor=ffffff&desc=나만%20모른%20닭&descSize=20&descAlign=70&fontAlignY=30&descAlignY=50)
+![나몰닭깃헙상단이미지](https://user-images.githubusercontent.com/117756400/216939133-6d703bcf-80ce-4939-ada5-a583af07185e.jpg)
 
 ## 🐣 GITHUB
 > FRONTEND
@@ -47,7 +47,7 @@
     <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <br />
   
-## Tool
+## Team Collaboration Tool
 <br />
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -58,6 +58,10 @@
 </div>
 <br /><br />
 
+## 📽 시연 영상
+[나만 모른 닭 시연 영상](https://user-images.githubusercontent.com/117756400/213690147-377a9f2d-2096-4e5a-b37e-e7cd30773e64.mp4)
+<br /> <br />
+
 ## 📢 주요 기능
 <ul>
 <li> 런닝맨의 양세찬 게임(aka. call my name 게임)을 온라인에서도 즐길 수 있게 구현하였습니닭🐔 </li>
@@ -66,18 +70,27 @@
 </ul>
 <br /> <br />
 
-## 📽 시연 영상
-[나만 모른 닭 시연 영상](https://user-images.githubusercontent.com/117756400/213690147-377a9f2d-2096-4e5a-b37e-e7cd30773e64.mp4)
-<br /> <br />
-
 ## ⚙️ 서비스 아키텍쳐
 ![나몰닭-아키텍쳐2](https://user-images.githubusercontent.com/117756400/216894689-8921deef-c813-42ca-a8f2-6e58f34fd4b8.jpg)
 <br /> <br />
 
 ## 🪄 주요 기술
+- 실시간 채팅을 위한 Web Socket
+  - 화상 및 음성 채팅을 위한 WebRTC
+  - 다양한 브라우저 환경을 지원하기 위한 SockJS
+  - pub/sub 기반의 편리한 웹소켓 관리를 위한 메세징 프로토콜 STOMP
+- Refresh Token의 생명 주기 관리를 위한 서브 데이터베이스로의 Redis 사용
+- 생산성 증가 및 개발자 편의를 위한 CI/CD
+- AWS CloudFront를 이용한 S3 이미지 엔드포인트 보안
+- Intersection-observer API를 사용한 댓글 무한 스크롤
+- 소셜 로그인을 통한 간편한 접근성 제공
 <br /> <br />
 
 ## 🔦 기술적 의사 결정
+> | 도입 이유 |
+  | 후보군 |
+  | 의견 
+  | 의견 결정 |
 <br /> <br />
 
 ## ⚽ 트러블 슈팅
