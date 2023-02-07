@@ -1,7 +1,7 @@
 ![나몰닭깃헙상단이미지](https://user-images.githubusercontent.com/117756400/216939133-6d703bcf-80ce-4939-ada5-a583af07185e.jpg)
 
 ## 🐣 GITHUB
-[FRONTEND](https://github.com/namoldak/Frontend) | [BACKEND](https://github.com/namoldak/Backend)
+[FRONTEND🐔](https://github.com/namoldak/Frontend) | [BACKEND🐔](https://github.com/namoldak/Backend)
 
 <br /> <br />
 
@@ -27,17 +27,19 @@
 <br />
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <img src="https://img.shields.io/badge/websocket-FFCD00?style=for-the-badge&logo=websocket&logoColor=white">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/websocket-FFCD00?style=for-the-badge&logo=websocket&logoColor=white">
+    <img src="https://img.shields.io/badge/sockJS-010101?style=for-the-badge&logo=socket.io&logoColor=white">
+    <img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white">
+    <img src="https://img.shields.io/badge/stomp-006272?style=for-the-badge&logo=stomp&logoColor=white">
     <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
     <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+ <br />
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
- <br />
     <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
     <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
     <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> 
-    <img src="https://img.shields.io/badge/amazon aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/aws codedeploy-FF9E9F?style=for-the-badge&logo=awscodedeploy&logoColor=white">
     <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <br /> <br />
@@ -55,7 +57,7 @@
 <br /><br />
 
 ## 🔗 나만 모른 닭 서비스 및 노션
-[🐔나만 모른 닭🐔](https://namoldak.com)
+[🐔나만 모른 닭 서비스🐔](https://namoldak.com)
 <br />
 [🐔나만 모른 닭 노션🐔](https://colossal-chokeberry-fec.notion.site/39515b59c604426494e905a62410ce3b)
 
@@ -92,7 +94,7 @@
 - 생산성 증가 및 개발자 편의를 위한 CI/CD
 - AWS CloudFront를 이용한 S3 이미지 엔드포인트 보안
 - Intersection-observer API를 사용한 댓글 무한 스크롤
-- 소셜 로그인을 통한 간편한 접근성 제공
+- OAuth 2.0 소셜 로그인을 통한 간편한 접근성
 
 <br /> <br />
 
