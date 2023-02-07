@@ -1,7 +1,45 @@
 ![나몰닭깃헙상단이미지](https://user-images.githubusercontent.com/117756400/216939133-6d703bcf-80ce-4939-ada5-a583af07185e.jpg)
 
 ## 🐣 GITHUB
-[FRONTEND🐔](https://github.com/namoldak/Frontend) | [BACKEND🐔](https://github.com/namoldak/Backend)
+[🔗 FRONTEND GITHUB](https://github.com/namoldak/Frontend) | [🔗 BACKEND GITHUB](https://github.com/namoldak/Backend)
+
+<br /> <br />
+
+## 🐔 나만 모른 닭
+<div align=center>
+
+***내 머리에 있는 거 뭐야? 나만 몰라?***  
+”양세찬 게임” 혹은 “콜 마이 네임”으로 불리는 *키워드 맞추기* 게임!  
+스무고개처럼 상대 플레이어에게 질문하면서 나의 키워드를 맞춰보세요🐤  
+최대한 <u>헷갈리게 답변</u>하고 최대한 <u>날카롭게 질문</u>하세요!  
+<br />
+![나몰닭상단이미지](https://user-images.githubusercontent.com/117756400/216971099-fff770a8-8462-4ad0-91f1-64463703bf5f.png)  
+</div>
+
+<br /> <br />
+
+## 🔗 나만 모른 닭 서비스 및 노션
+[🐔나만 모른 닭 서비스🐔](https://namoldak.com)
+<br />
+[🐔나만 모른 닭 노션🐔](https://colossal-chokeberry-fec.notion.site/39515b59c604426494e905a62410ce3b)
+
+<br /> <br />
+
+## 📽 시연 영상
+<div align=center>
+
+![800px](https://user-images.githubusercontent.com/111271565/217049760-c3694076-b5be-41c5-9951-f148aee3bb92.gif)
+</div>
+
+<br /> <br />
+
+## 📢 주요 서비스 기능
+<ul>
+<li> 런닝맨의 양세찬 게임(aka. call my name 게임)을 온라인에서도 즐길 수 있게 구현하였습니닭🐔 </li>
+<li> 텍스트 채팅뿐만 아니라 음성/화상 채팅으로도 서로 대화를 나누며 게임을 즐길 수 있습니닭🐔 </li>
+<li> 게임도 하고 게시판을 이용해 다른 유저들과 소통도 할 수 있습니닭🐔 </li>
+<li> 소셜 로그인이 있어 별도의 회원가입이 필요하지 않습니닭🐔 </li>
+</ul>
 
 <br /> <br />
 
@@ -28,18 +66,20 @@
     <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
     <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
+    <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+<br />
     <img src="https://img.shields.io/badge/websocket-FFCD00?style=for-the-badge&logo=websocket&logoColor=white">
     <img src="https://img.shields.io/badge/sockJS-010101?style=for-the-badge&logo=socket.io&logoColor=white">
     <img src="https://img.shields.io/badge/webrtc-333333?style=for-the-badge&logo=webrtc&logoColor=white">
     <img src="https://img.shields.io/badge/stomp-006272?style=for-the-badge&logo=stomp&logoColor=white">
-    <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white">
-    <img src="https://img.shields.io/badge/spring security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
- <br />
+<br />
     <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     <img src="https://img.shields.io/badge/redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
     <img src="https://img.shields.io/badge/amazon ec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
     <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
     <img src="https://img.shields.io/badge/amazon rds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> 
+<br />
     <img src="https://img.shields.io/badge/aws codedeploy-FF9E9F?style=for-the-badge&logo=awscodedeploy&logoColor=white">
     <img src="https://img.shields.io/badge/github actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white">
 <br /> <br />
@@ -55,30 +95,6 @@
 </div>
 
 <br /><br />
-
-## 🔗 나만 모른 닭 서비스 및 노션
-[🐔나만 모른 닭 서비스🐔](https://namoldak.com)
-<br />
-[🐔나만 모른 닭 노션🐔](https://colossal-chokeberry-fec.notion.site/39515b59c604426494e905a62410ce3b)
-
-<br /> <br />
-
-## 📢 주요 기능
-<ul>
-<li> 런닝맨의 양세찬 게임(aka. call my name 게임)을 온라인에서도 즐길 수 있게 구현하였습니닭🐔 </li>
-<li> 텍스트 채팅뿐만 아니라 음성/화상 채팅으로도 서로 대화를 나누며 게임을 즐길 수 있습니닭🐔 </li>
-<li> 게임도 하고 게시판을 이용해 다른 유저들과 소통도 할 수 있습니닭🐔 </li>
-</ul>
-
-<br /> <br />
-
-## 📽 시연 영상
-<div align=center>
-
-![800px](https://user-images.githubusercontent.com/111271565/217049760-c3694076-b5be-41c5-9951-f148aee3bb92.gif)
-</div>
-
-<br /> <br />
 
 ## ⚙️ 서비스 아키텍쳐
 ![나몰닭-아키텍쳐2](https://user-images.githubusercontent.com/117756400/216894689-8921deef-c813-42ca-a8f2-6e58f34fd4b8.jpg)
